@@ -23,8 +23,8 @@
 
 {
     'name': 'Picking Domain Fix',
-    'summary': 'Shows only shipping addresses in incoming/outgoing stock '
-               'pickings partner dropdown',
+    'summary': 'Shows only shipping addresses in outgoing stock pickings '
+               'partner dropdown',
     'description': """Description in HTML file.""",
     'category': 'Stock',
     'version': '0.1',
