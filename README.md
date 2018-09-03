@@ -1,2 +1,2 @@
 
-### Repository with Odoo Modules related with Sales
+### Repository with Odoo Modules related with Stock
