@@ -28,8 +28,8 @@
     'description': """Description in HTML file.""",
     'category': 'Stock',
     'version': '0.1',
-    'author': 'Anubia, Soluciones en la Nube, SL',
-    'maintainer': 'Anubia, soluciones en la nube, SL',
+    'author': 'Anubía Soluciones en la Nube, S.L.',
+    'maintainer': 'Anubía Soluciones en la Nube, S.L.',
     'contributors': [
         'Juan Formoso Vasco <jfv@anubia.es>',
     ],
